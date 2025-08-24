@@ -41,34 +41,37 @@ npm run dev
 - Open http://localhost:5173 in your browser to view the app.
 
 
-## Project Structure
+## 📂 Project Structure
+
+```bash
 PasteApp/
 ├── public/
 │   └── vite.svg
 ├── src/
-│   ├── [App.jsx](http://_vscodecontentref_/0)
-│   ├── [index.css](http://_vscodecontentref_/1)
-│   ├── [main.jsx](http://_vscodecontentref_/2)
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
 │   ├── assets/
 │   │   └── react.svg
 │   ├── components/
-│   │   ├── [Home.jsx](http://_vscodecontentref_/3)
-│   │   ├── [Navbar.jsx](http://_vscodecontentref_/4)
-│   │   ├── [Paste.jsx](http://_vscodecontentref_/5)
-│   │   └── [ViewPaste.jsx](http://_vscodecontentref_/6)
+│   │   ├── Home.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Paste.jsx
+│   │   └── ViewPaste.jsx
 │   ├── data/
-│   │   └── [Navbar.js](http://_vscodecontentref_/7)
+│   │   └── Navbar.js
 │   ├── redux/
-│   │   ├── [pasteSlice.js](http://_vscodecontentref_/8)
-│   │   └── [store.js](http://_vscodecontentref_/9)
+│   │   ├── pasteSlice.js
+│   │   └── store.js
 │   └── utlis/
-│       └── [formatDate.js](http://_vscodecontentref_/10)
-├── [index.html](http://_vscodecontentref_/11)
-├── [package.json](http://_vscodecontentref_/12)
-├── [tailwind.config.js](http://_vscodecontentref_/13)
-├── [postcss.config.js](http://_vscodecontentref_/14)
-├── [vite.config.js](http://_vscodecontentref_/15)
-└── [eslint.config.js](http://_vscodecontentref_/16)
+│       └── formatDate.js
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── vite.config.js
+└── eslint.config.js
+```
 
 
 # PasteApp
