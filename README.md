@@ -1,4 +1,4 @@
-# PasteApp
+# CodeBook
 
 PasteApp is a simple web application for creating, saving, viewing, and managing text pastes. Built with **React**, **Vite**, **Redux Toolkit**, **Tailwind CSS**, and **React Router**, it provides a fast and modern user experience for managing snippets of text.
 
@@ -74,7 +74,7 @@ PasteApp/
 ```
 
 
-# PasteApp
+# CodeBook
 
 ## 📦 Main Packages Used
 - [react](https://react.dev/)
